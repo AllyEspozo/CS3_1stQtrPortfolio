@@ -1,3 +1,7 @@
+### Take on SONA July 2025 of Pres. Ferdinand R. Marcos Jr.
+## by Alijah Lucas P. Espinoza from 9-Rubidium
+
+
 # 1. Give 2-4 key points from the SONA 2025 that you found interesting
 
 
@@ -8,4 +12,3 @@
 
 
 # 4. What 1 word/ phrase/ or sentence do you have for the Philippines after hearing SONA 2025?
-
