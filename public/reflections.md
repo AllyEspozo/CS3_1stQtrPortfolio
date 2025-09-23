@@ -43,7 +43,7 @@
 3. **JavaScript Number Objects**  
    I will do exercises using Number object methods for calculations and conversions, and check the outputs to understand their correct usage.  
 
-4. **File Handling and Portfolio Project**  
+4. **File Handling and Portfolio**  
    I will organize my portfolio project files systematically, practice linking pages, and test loading files to improve my file management skills.  
 
 5. **Debugging Codes**  
